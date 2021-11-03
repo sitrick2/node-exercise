@@ -30,7 +30,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "mongoose": "^5.7.3",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "winston": "2.4.0",
     "winston-mongodb": "3.0.0"
   },
